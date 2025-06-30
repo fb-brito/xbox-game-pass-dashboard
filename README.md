@@ -1,6 +1,6 @@
 # Xbox Game Pass - Painel de Análise de Vendas
 
-![DIO-Excel](https://img.shields.io/badge/DIO-Excel_VBA-Verde)
+![DIO-Excel](https://img.shields.io/badge/DIO-Excel-Verde)
 ![GitHub](https://img.shields.io/badge/GitHub-Documentation-green)
 
 ## Visão Geral do Projeto
@@ -95,52 +95,52 @@ O arquivo Excel foi estruturado de forma organizada para separar as diferentes e
 
 ## Visualização do Dashboard
 
-\<p align="center"\>
-\<img src="./images/Imagem1.png" alt="Interface Principal do Dashboard" width="700"\>
-\</p\>
-\<p align="center"\>
-\<em\>Visão geral do painel com filtro "Anual" aplicado.\</em\>
-\</p\>
+<p align="center"\>
+<img src="./images/Imagem1.png" alt="Interface Principal do Dashboard" width="700"\>
+</p\>
+<p align="center"\>
+<em\>Visão geral do painel com filtro "Anual" aplicado.\</em\>
+</p\>
 
-\<p align="center"\>
-\<img src="./images/Imagem2.png" alt="Dashboard com filtro 'Mensal' aplicado" width="700"\>
-\</p\>
-\<p align="center"\>
-\<em\>Visão geral do painel com filtro "Mensal" aplicado.\</em\>
-\</p\>
+<p align="center"\>
+<img src="./images/Imagem2.png" alt="Dashboard com filtro 'Mensal' aplicado" width="700"\>
+</p\>
+<p align="center"\>
+<em\>Visão geral do painel com filtro "Mensal" aplicado.\</em\>
+</p\>
 
-\<p align="center"\>
-\<img src="./images/Imagem3.png" alt="Dashboard com filtro 'Trimestral' aplicado" width="700"\>
-\</p\>
-\<p align="center"\>
-\<em\>Visão geral do painel com filtro "Trimestral" aplicado.\</em\>
-\</p\>
+<p align="center"\>
+<img src="./images/Imagem3.png" alt="Dashboard com filtro 'Trimestral' aplicado" width="700"\>
+</p\>
+<p align="center"\>
+<em\>Visão geral do painel com filtro "Trimestral" aplicado.\</em\>
+</p\>
 
-\<p align="center"\>
-\<img src="./images/Imagem4.png" alt="Aba de Cálculos com Tabelas Dinâmicas" width="700"\>
-\</p\>
-\<p align="center"\>
-\<em\>Exemplo da aba "calculo", onde as análises são preparadas.\</em\>
-\</p\>
+<p align="center"\>
+<img src="./images/Imagem4.png" alt="Aba de Cálculos com Tabelas Dinâmicas" width="700"\>
+</p\>
+<p align="center"\>
+<em\>Exemplo da aba "calculo", onde as análises são preparadas.\</em\>
+</p\>
 
-\<p align="center"\>
-\<img src="./images/Imagem5.png" alt="Aba de Ativos com paleta de cores e logos" width="700"\>
-\</p\>
-\<p align="center"\>
-\<em\>Aba "ativos", a base para a identidade visual do projeto.\</em\>
-\</p\>
+<p align="center"\>
+<img src="./images/Imagem5.png" alt="Aba de Ativos com paleta de cores e logos" width="700"\>
+</p\>
+<p align="center"\>
+<em\>Aba "ativos", a base para a identidade visual do projeto.\</em\>
+</p\>
 
 -----
 
 ## Ativos Visuais Utilizados
 
-\<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;"\>
-\<img src="./images/ativos1.png" alt="Logo Xbox" height="60"\>
-\<img src="./images/ativos2.png" alt="Logo EA Play" height="60"\>
-\<img src="./images/ativos3.png" alt="Logo Minecraft" height="60"\>
-\<img src="./images/ativos4.png" alt="Ícone Usuário" height="60"\>
-\<img src="./images/ativos5.png" alt="Logo LinkedIn" height="60"\>
-\</div\>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;"\>
+<img src="./images/ativos1.png" alt="Logo Xbox" height="60"\>
+<img src="./images/ativos2.png" alt="Logo EA Play" height="60"\>
+<img src="./images/ativos3.png" alt="Logo Minecraft" height="60"\>
+<img src="./images/ativos4.png" alt="Ícone Usuário" height="60"\>
+<img src="./images/ativos5.png" alt="Logo LinkedIn" height="60"\>
+</div\>
 
 *Imagens complementares do projeto.*
 
