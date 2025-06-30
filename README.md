@@ -99,35 +99,35 @@ O arquivo Excel foi estruturado de forma organizada para separar as diferentes e
 <img src="./images/Imagem1.png" alt="Interface Principal do Dashboard" width="700"\>
 </p\>
 <p align="center"\>
-<em\>Visão geral do painel com filtro "Anual" aplicado.\</em\>
+<em\>Visão geral do painel com filtro "Anual" aplicado.</em\>
 </p\>
 
 <p align="center"\>
 <img src="./images/Imagem2.png" alt="Dashboard com filtro 'Mensal' aplicado" width="700"\>
 </p\>
 <p align="center"\>
-<em\>Visão geral do painel com filtro "Mensal" aplicado.\</em\>
+<em\>Visão geral do painel com filtro "Mensal" aplicado.</em\>
 </p\>
 
 <p align="center"\>
 <img src="./images/Imagem3.png" alt="Dashboard com filtro 'Trimestral' aplicado" width="700"\>
 </p\>
 <p align="center"\>
-<em\>Visão geral do painel com filtro "Trimestral" aplicado.\</em\>
+<em\>Visão geral do painel com filtro "Trimestral" aplicado.</em\>
 </p\>
 
 <p align="center"\>
 <img src="./images/Imagem4.png" alt="Aba de Cálculos com Tabelas Dinâmicas" width="700"\>
 </p\>
 <p align="center"\>
-<em\>Exemplo da aba "calculo", onde as análises são preparadas.\</em\>
+<em\>Exemplo da aba "calculo", onde as análises são preparadas.</em\>
 </p\>
 
 <p align="center"\>
 <img src="./images/Imagem5.png" alt="Aba de Ativos com paleta de cores e logos" width="700"\>
 </p\>
 <p align="center"\>
-<em\>Aba "ativos", a base para a identidade visual do projeto.\</em\>
+<em\>Aba "ativos", a base para a identidade visual do projeto.</em\>
 </p\>
 
 -----
